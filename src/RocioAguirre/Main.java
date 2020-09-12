@@ -35,7 +35,7 @@ public class Main {
 
         System.out.print("Ingresa el primer dato númerico = ");
         o1.d1 = Entrada.nextDouble();
-        System.out.print("Ingresa el primer dato númerico = ");
+        System.out.print("Ingresa el segundo dato númerico = ");
         o1.d2 = Entrada.nextDouble();
 
             System.out.println("El resultado de las operaciones es el siguiente = ");
